@@ -34,7 +34,7 @@ An immersive, interactive 3D solar system simulation built using **Three.js**. T
 
 ## 📸 Preview
 
-![3D Solar System Preview]([https://your-image-link.com/preview.png](https://drive.google.com/file/d/1AMF1TXU9nF3w1V0Wps8Rt1aAHpuyKhjW/view?usp=drive_link))
+[3D Solar System Preview]([https://drive.google.com/file/d/1AMF1TXU9nF3w1V0Wps8Rt1aAHpuyKhjW/view?usp=drive_link])
 
 ---
 
