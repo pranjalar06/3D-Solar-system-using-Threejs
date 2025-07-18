@@ -28,13 +28,13 @@ An immersive, interactive 3D solar system simulation built using **Three.js**. T
 
 ## 🌐 Live Demo
 
-🔗 [Deployed Website]([https://your-deployment-url.com](https://cute-faloodeh-745e31.netlify.app))
+🔗 [Live Website](https://cute-faloodeh-745e31.netlify.app)
 
 ---
 
 ## 📸 Preview
 
-[3D Solar System Preview]([https://drive.google.com/file/d/1AMF1TXU9nF3w1V0Wps8Rt1aAHpuyKhjW/view?usp=drive_link])
+📹 [Demo Video](https://drive.google.com/file/d/1AMF1TXU9nF3w1V0Wps8Rt1aAHpuyKhjW/view?usp=drive_link)
 
 ---
 
